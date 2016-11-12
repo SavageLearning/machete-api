@@ -1,7 +1,13 @@
 {
+  "scripts": {
+    "start": "node src/app/main.js"
+  },
   "dependencies": {
     "bookshelf": "^0.10.2",
     "knex": "^0.12.6",
     "mssql": "^3.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3"
   }
 }
