@@ -1,7 +1,0 @@
-{
-  "resolution": "../typings",
-  "globalDependencies": {
-    "bookshelf": "registry:dt/bookshelf#0.8.2+20160920193204",
-    "knex": "registry:dt/knex#0.0.0+20161009195237"
-  }
-}
